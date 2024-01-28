@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    margin-top: 300px;
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+.button6{
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+p{
+    color: white;
+}
+
+.button2{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
